@@ -1,4 +1,4 @@
-# [Desafio 03 - Corrigindo o código](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd4)
+# [Desafio 03 - Corrigindo o código](https://www.notion.so/Desafio-03-Corrigindo-o-c-digo-c15c8a2e212846039a367cc7b763c6dd)
 
 >  Conteúdo da Ignite - Trilha Node.js. Desafio proposto pela plataforma da Rocketseat.
  
